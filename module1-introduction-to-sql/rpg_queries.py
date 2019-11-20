@@ -1,8 +1,7 @@
 # Imports
 import sqlite3
 
-#Queries
-
+# Queries
 # 1.How many total Characters are there? #302
 q1 = 'SELECT COUNT (character_id) \
 FROM charactercreator_character'
